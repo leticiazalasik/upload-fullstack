@@ -17,9 +17,8 @@ O objetivo principal é que os arquivos sejam adicionados e serão salvos na pas
  
 ## 👨‍💻 Tecnologias Utilizadas:
 
- #### TypeScript
- #### NestJS
- #### Tailwind 
- #### CSS
- #### React 
- #### NestJS
+- TypeScript
+- NestJS
+- Tailwind
+- CSS
+- React
