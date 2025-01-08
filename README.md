@@ -22,3 +22,6 @@ O objetivo principal é que os arquivos sejam adicionados e serão salvos na pas
 - Tailwind
 - CSS
 - React
+
+
+⏯️ Para testar: execute tanto a pasta de front-end quanto de back-end com npm run dev e abra http://localhost:3000/
