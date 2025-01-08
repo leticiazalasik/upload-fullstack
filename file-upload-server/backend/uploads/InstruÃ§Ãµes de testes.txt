@@ -1,0 +1,18 @@
+Execuções 
+
+Testes podem ser feitos no postman através dos endereços:
+
+GET
+Buscar por id http://localhost:3000/api/livros/2
+Buscar por todos http://localhost:3000/api/livros
+Buscar por ano http://localhost:3000/api/livros/ano/1954
+Buscar por autor http://localhost:3000/api/livros/autor/Carla
+
+POST
+Adicionar livros http://localhost:3000/api/livros
+
+DELETE
+Deletar livro http://localhost:3000/api/livros/1
+
+PUT
+Editar livro http://localhost:3000/api/livros/1
