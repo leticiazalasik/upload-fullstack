@@ -7,11 +7,11 @@ O objetivo principal é que os arquivos sejam adicionados e serão salvos na pas
 
 :small_blue_diamond: Validação de arquivos: valida se existe um arquivo, tamanho do arquivo e tipos.
 
- #### :small_blue_diamond: "Arrastar arquivos": Drag permite que o usuário arraste um item (geralmente um arquivo ou objeto) de um local e o solte em outro, facilitando a interação e Drop responsável pelo soltar o arquivo em um local onde será processsado. 
+:small_blue_diamond: "Arrastar arquivos": Drag permite que o usuário arraste um item (geralmente um arquivo ou objeto) de um local e o solte em outro, facilitando a interação e Drop responsável pelo soltar o arquivo em um local onde será processsado. 
 
-#### \:small_blue_diamond\: Lista de arquivos enviados: Cria uma lista no front-end com o nome e o tamanho de todos os arquivos que foram enviados naquela sessão.
+:small_blue_diamond: Lista de arquivos enviados: Cria uma lista no front-end com o nome e o tamanho de todos os arquivos que foram enviados naquela sessão.
 
- #### :small_blue_diamond: Barra de status de progresso: Barra que é preenchida conforme ocorre o carregamento do arquivo. 
+:small_blue_diamond: Barra de status de progresso: Barra que é preenchida conforme ocorre o carregamento do arquivo. 
 
 
  
